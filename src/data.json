@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "Jordan",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/michael_jordan.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Lebron James",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/lebron_james.jpg"
+  },
+  {
+    "id": 3,
+    "name": "James Harden",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/james_harden.jpg"
+  
+  },
+  {
+    "id": 4,
+    "name": "Carmelo Anthony",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/carmelo_anthony.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kobe Bryant",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/kobe_bryant.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Wilt Chamberlain",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/wilt_chamberlain.jpg"
+  
+  },
+  {
+    "id": 7,
+    "name": "Kevin Durant",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/kevin_durant.jpg"
+
+  },
+  {
+    "id": 8,
+    "name": "Dirk Nowitzki",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/dirk_nowitzki.jpg"
+
+  },
+  {
+    "id": 9,
+    "name": "Dwayne Wade",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/dwayne_wade.jpg"
+
+  },
+  {
+    "id": 10,
+    "name": "Dennis Rodman",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/dennis_rodman.jpg"
+
+  },
+  {
+    "id": 11,
+    "name": "Larry Bird",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/larry_bird.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "Allen Iverson",
+    "image": "https://www.landofbasketball.com/nbaplayers/images/allen_iverson.jpg"
+
+  }
+]
